@@ -1,5 +1,12 @@
-<!-- PROFILE README: harsha-techlab -->
-![Harsha ECE GitHub Banner](assets/github-banner.png)
+
+<!--
+  PROFILE README — harsha-techlab
+  Circuit Board / Electronics Theme
+-->
+
+<p align="center">
+  <img src="assets/github-banner.png" alt="Harsha ECE GitHub Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm Harsha 👋</h1>
 
@@ -15,14 +22,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-0A9396?style=for-the-badge" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/Interest-IoT-264653?style=for-the-badge" alt="IoT" />
-  <img src="https://img.shields.io/badge/Field-Electronics-E76F51?style=for-the-badge" alt="Electronics" />
+  <img src="https://img.shields.io/badge/⚡_Electronics-0B3D2E?style=for-the-badge&logoColor=white" alt="Electronics" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-087F8C?style=for-the-badge" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/IoT-145DA0?style=for-the-badge" alt="IoT" />
+  <img src="https://img.shields.io/badge/Automation-237A57?style=for-the-badge" alt="Automation" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🟢 About Me
 
 - 🎓 Electronics and Communication Engineering enthusiast.
 - ⚡ Interested in embedded systems, IoT, and smart technologies.
@@ -32,80 +40,92 @@
 
 ---
 
-## 🛠️ Areas of Interest
+## 🔌 Areas of Interest
 
-- Embedded Systems & Microcontrollers
-- Internet of Things (IoT)
-- Wireless Communication
-- Robotics & Smart Automation
-- Python Development
-- Sensors and Electronic Circuits
+<p>
+  <img src="https://img.shields.io/badge/Embedded_Systems-12372A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microcontrollers-1B6B50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Internet_of_Things-087F8C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireless_Communication-145DA0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Robotics-237A57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Smart_Automation-0B3D2E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electronic_Circuits-355E3B?style=flat-square" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Anti-Theft Vehicle Battery Detection System
+### ⚡ 01. Anti-Theft Vehicle Battery Detection System
+
 A project focused on vehicle battery monitoring and theft detection.
 
-### 2. Multi-Node Advanced Home Automation
-A multi-node home automation project using the ESP-NOW protocol.
+### 🏠 02. Multi-Node Advanced Home Automation
 
-### 3. Wi-Fi Weather Station
+A multi-node home automation project using the **ESP-NOW protocol**.
+
+### 🌦️ 03. Wi-Fi Weather Station
+
 A connected weather monitoring project using Wi-Fi.
 
-### 4. 5-in-1 Smart Car Using ESP32-S3
+### 🚗 04. 5-in-1 Smart Car Using ESP32-S3
+
 A multi-function smart car project built around the ESP32-S3.
 
-### 5. Biometric Attendance System Using Python
+### 🖐️ 05. Biometric Attendance System Using Python
+
 A Python-based attendance system using fingerprint recognition.
 
-### 6. Smart Waste Detection System
+### ♻️ 06. Smart Waste Detection System
+
 A smart system designed for waste detection and monitoring.
 
 ---
 
-## 💻 Technologies
+## 💻 Technologies & Tools
 
-<!-- Add only the languages, tools, and hardware
-     you have actually used in your projects. -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-- Programming: Python, C/C++ (if applicable)
-- Hardware: ESP32, ESP32-S3, sensors (as applicable)
-- Tools: Git, GitHub, and your development tools
+<p align="center">
+  <em>
+    Add or remove technologies to reflect the tools and hardware
+    you have actually used.
+  </em>
+</p>
 
 ---
 
 ## 🎯 Current Goals
 
-- Improve my embedded systems and software development skills.
-- Document and publish my engineering projects.
-- Build practical solutions using electronics and IoT.
-- Prepare for internships and future engineering opportunities.
+- 📚 Improve my embedded systems and software development skills.
+- 🛠️ Document and publish my engineering projects.
+- 🌐 Build practical solutions using electronics and IoT.
+- 💼 Prepare for internships and future engineering opportunities.
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: [@harsha-techlab](https://github.com/harsha-techlab)
-- Portfolio: Coming soon
+<p align="center">
+  <a href="https://github.com/harsha-techlab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add your real LinkedIn and portfolio URLs when ready. -->
+</p>
 
 ---
 
+<h3 align="center">
+  ⚡ Design • Build • Test • Demonstrate ⚡
+</h3>
+
 <p align="center">
-  <em>Dream • Design • Develop • Demonstrate ⚡</em>
+  <em>Code it. Connect it. Power it. Watch it come alive.</em>
 </p>
-<!--
-**harsha-techlab/harsha-techlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
