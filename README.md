@@ -54,34 +54,19 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-### ⚡ 01. Anti-Theft Vehicle Battery Detection System
+### ⚡ [Anti-Theft Vehicle Battery Detection System](https://github.com/harsha-techlab/anti-theft-vehicle-battery-detection)
 
-A project focused on vehicle battery monitoring and theft detection.
+Vehicle battery monitoring and theft detection project.
 
-### 🏠 02. Multi-Node Advanced Home Automation
+### 🏠 [Multi-Node Advanced Home Automation](https://github.com/harsha-techlab/multi-node-advanced-home-automation-using-esp-now-protocol-and-wifi)
 
-A multi-node home automation project using the **ESP-NOW protocol**.
+Multi-node home automation using the ESP-NOW protocol and Wi-Fi.
 
-### 🌦️ 03. Wi-Fi Weather Station
+### 🖐️ [Biometric Attendance System Using Python](https://github.com/harsha-techlab/biometric-attendance-system)
 
-A connected weather monitoring project using Wi-Fi.
-
-### 🚗 04. 5-in-1 Smart Car Using ESP32-S3
-
-A multi-function smart car project built around the ESP32-S3.
-
-### 🖐️ 05. Biometric Attendance System Using Python
-
-A Python-based attendance system using fingerprint recognition.
-
-### ♻️ 06. Smart Waste Detection System
-
-A smart system designed for waste detection and monitoring.
-
----
+A Python-based attendance system using fingerprint recognition..
 
 ## 💻 Technologies & Tools
 
