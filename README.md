@@ -1,4 +1,5 @@
 <!-- PROFILE README: harsha-techlab -->
+![Harsha ECE GitHub Banner](assets/github-banner.png)
 
 <h1 align="center">Hi, I'm Harsha 👋</h1>
 
